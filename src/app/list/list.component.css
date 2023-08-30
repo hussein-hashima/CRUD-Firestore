@@ -1,0 +1,7 @@
+a {
+  cursor: pointer;
+  border-bottom: 1px solid black;
+}
+a:last-child{
+    border-bottom: none;
+}
